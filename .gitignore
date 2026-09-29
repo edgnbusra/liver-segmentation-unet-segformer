@@ -1,0 +1,16 @@
+# Buyuk veri ve model dosyalari - GitHub'a yuklenmez
+data/
+checkpoints/
+mlruns/
+mlflow.db
+*.pth
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistem
+.DS_Store
+Thumbs.db
